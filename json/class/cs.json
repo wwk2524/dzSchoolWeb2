@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "data": [
+      {
+    "id": 0,
+    "classname": "一年级",
+    "classsize": 40,
+    "teacher": "张平"
+  },
+  {
+    "id": 1,
+    "classname": "二年级",
+    "classsize": 40,
+    "teacher": "李华"
+  },
+  {
+    "id": 2,
+    "classname": "三年级",
+    "classsize": 40,
+    "teacher": "杨媛"
+  },
+  {
+    "id": 3,
+    "classname": "四年级",
+    "classsize": 40,
+    "teacher": "赵明"
+  }
+],
+  "message": "查询成功！"
+}

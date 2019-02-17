@@ -1,0 +1,34 @@
+{
+    "success": true,
+    "message": "操作成功！",
+    "data": [
+        {
+            "name": "欢迎页",
+            "icon": "menu",
+            "route": "/welcome"
+        },
+        {
+            "name": "学生管理",
+            "icon": "goods",
+            "children": [
+                {
+                    "name": "班级列表",
+                    "route": "/class/cs"
+                },
+                {
+                    "name": "学生列表",
+                    "route": "/stu/list"
+                },
+                {
+                    "name": "教师列表",
+                    "route": "/teacher/list"
+                }
+            ]
+        },
+        {
+            "name": "个人中心",
+            "icon": "menu",
+            "route": "/lnd/List"
+        }
+    ]
+}

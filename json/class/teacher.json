@@ -1,0 +1,60 @@
+{
+  "success": true,
+  "data": [
+       {
+        "id":"1",
+        "teachername":"林明",
+        "teacherage":"26",
+        "teachersex":1,
+        "occupation":"语文教师",
+        "telephone":"123456789",
+        "email":"@124456677"
+       },
+       {
+        "id":"2",
+        "teachername":"杨媛",
+        "teacherage":"22",
+        "teachersex":0,
+        "occupation":"数学教师",
+        "telephone":"123456789",
+        "email":"@124456677"
+       },
+       {
+        "id":"3",
+        "teachername":"张平",
+        "teacherage":"29",
+        "teachersex":1,
+        "occupation":"历史教师",
+        "telephone":"123456789",
+        "email":"@124456677"
+       },
+       {
+        "id":"4",
+        "teachername":"李华",
+        "teacherage":"25",
+        "teachersex":1,
+        "occupation":"英语教师",
+        "telephone":"123456789",
+        "email":"@124456677"
+       },
+       {
+        "id":"5",
+        "teachername":"陈云",
+        "teacherage":"32",
+        "teachersex":1,
+        "occupation":"英语教师",
+        "telephone":"123456789",
+        "email":"@124456677"
+       },
+       {
+        "id":"6",
+        "teachername":"林立",
+        "teacherage":"23",
+        "teachersex":1,
+        "occupation":"物理教师",
+        "telephone":"123456789",
+        "email":"@124456677"
+       }
+       ],
+  "message": "查询成功！"
+}
